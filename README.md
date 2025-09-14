@@ -129,9 +129,8 @@ This project was inspired by literature on inclusive ASR systems and the need fo
 ---
 
 ## 👨‍💻 Contributors
-
-- **Roshan A Rauof** 
 - **Amritha K** 
+- **Roshan A Rauof** 
 - **Reem Fariha** 
 - **Shifana Mehar** 
 
@@ -218,3 +217,4 @@ Author: Prithiviraj Damodaran (Hugging Face)
 
 Docs: [Google Cloud Text-to-Speech API](https://cloud.google.com/text-to-speech/docs)  
 No formal citation required, but check usage guidelines.
+
